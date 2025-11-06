@@ -1,3 +1,3 @@
 # Flexo
 
-yes, we have docs $30 for access
+[New Repo](https://github.com/goland-express/Flexo)
